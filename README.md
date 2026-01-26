@@ -18,3 +18,11 @@ This project is a Python-based mental health support chatbot that detects user m
 ## Screenshot
 ...
 
+## Web Version (Flask)
+
+### Run the Web App
+```bash
+pip install -r requirements.txt
+python app.py
+
+
