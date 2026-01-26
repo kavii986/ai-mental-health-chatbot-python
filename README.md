@@ -25,4 +25,7 @@ This project is a Python-based mental health support chatbot that detects user m
 pip install -r requirements.txt
 python app.py
 
+## Web UI Screenshot
+![Web UI](screenshots/web-ui.png)
+
 
