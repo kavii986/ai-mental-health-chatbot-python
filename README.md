@@ -3,29 +3,14 @@
 This project is a Python-based mental health support chatbot that detects user mood using keyword logic and provides supportive responses through an interactive conversation.
 
 ## Features
-- Mood detection (sad, stress, anxiety)
+- Mood detection (sad, stress, anxiety, lonely, angry)
 - Supportive chatbot replies
-- Simple conversation flow
+- Yes/No interactive conversation flow
+- Calming exercises (breathing + grounding)
+- Commands: help, reset, exit
+- Web UI using Flask
 
-## How to Run
-...
-
-## Documentation (Step-by-step)
-- [Step 1: Setup](docs/01-setup.md)
-- [Step 2: Basic Chatbot](docs/02-basic-chatbot.md)
-- [Step 3: Mood Detection](docs/03-mood-detection.md)
-
-## Screenshot
-...
-
-## Web Version (Flask)
-
-### Run the Web App
+## Console Version (Terminal)
+### How to Run
 ```bash
-pip install -r requirements.txt
-python app.py
-
-## Web UI Screenshot
-![Web UI](screenshots/web-ui.png)
-
-
+python chatbot.py
