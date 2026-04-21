@@ -1,16 +1,21 @@
-# AI Mental Health Support Chatbot (Python)
+# AI-Based Mental Health Chatbot
 
-This project is a Python-based mental health support chatbot that detects user mood using keyword logic and provides supportive responses through an interactive conversation.
+## 📌 Overview
+A Python-based chatbot that provides mental health support by analyzing user input and responding with supportive messages.
 
-## Features
-- Mood detection (sad, stress, anxiety, lonely, angry)
-- Supportive chatbot replies
-- Yes/No interactive conversation flow
-- Calming exercises (breathing + grounding)
-- Commands: help, reset, exit
-- Web UI using Flask
+## 🚀 Features
+- Real-time conversation handling  
+- Rule-based NLP for intent recognition  
+- Provides calming exercises and suggestions  
+- Web-based interface using Flask  
 
-## Console Version (Terminal)
-### How to Run
+## 🛠 Tech Stack
+- Python  
+- Flask  
+- HTML, CSS  
+- NLP (rule-based)  
+
+## ▶️ How to Run
 ```bash
-python chatbot.py
+pip install -r requirements.txt
+python app.py
